@@ -1,3 +1,7 @@
-export const MIN_ZOOM = 10;
-export const MAX_ZOOM = 300;
-export const DEFAULT_ZOOM = 100;
+export const ZOOM_LEVELS = {
+      MIN: 10,       // 10%
+        MAX: 300,      // 300%
+          DEFAULT: 100,  // 100%
+            STEP: 10,      // step size when zooming in/out
+            };
+
