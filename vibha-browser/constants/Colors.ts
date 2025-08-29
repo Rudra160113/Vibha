@@ -1,4 +1,4 @@
-const COLORS = {
+export const COLORS = {
     BACKGROUND: "#F9F9F9",   // white slightly greyish
       LOGO_YELLOW: "#FFF9C4",  // light yellow for app logo circle
         TEXT: "#333333",         // default text color
